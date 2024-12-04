@@ -1,7 +1,7 @@
 - 👋🏻 Hi, I’m Shiyi.
 - 📊 I’m interested in linguistics, AI, and data related technologies.
 - 🌱 I’m also learning different cloud platforms (mainly focused on AWS and GCP).
-- 📧 Questions? Write me an email at shiyis3447@gmail.com.
+- 📧 Questions? Write me an email at shiyis@brandeis.edu.
 - 💗 check out this [profile](https://github.com/shiyis?tab=repositories) for some fun side quests; it's also in the follower list!
 
 <!---
