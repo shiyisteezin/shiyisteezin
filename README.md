@@ -2,6 +2,7 @@
 - 📊 I’m interested in linguistics, AI, and data related technologies.
 - 🌱 I’m also learning different cloud platforms (mainly focused on AWS and GCP).
 - 📧 Questions? Write me an email at shiyis@brandeis.edu.
+- 💗 I have also created a separate [profile](https://github.com/shiyis) for some fun side quests.
 
 <!---
 shiyis/shiyis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
