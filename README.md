@@ -1,5 +1,5 @@
 - 🤖 Hi, I’m Shiyi.
-- 📊 I am an avid learner of all interesting topics.
+- 📊 I am an avid learner of different technologies.
 - 📪 I have created a [separate profile](https://github.com/shiyisrsly) for some projects I am interested in.
 - 🌱 I’m also learning different cloud platforms (mainly focused on AWS and GCP).
 - 💌 Questions? Write me an email at shiyis@brandeis.edu.
