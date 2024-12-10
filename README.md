@@ -2,7 +2,7 @@
 - 📊 I am an avid learner of different technologies.
 - 📪 I have created a [separate profile](https://github.com/shiyis) to explore subjects I am interested in.
 - 🌱 I’m also learning different cloud platforms (mainly focused on AWS and GCP).
-- 💌 Questions? Write me an email at shiyis@brandeis.edu.
+- 💌 Questions? Write me an email at shiyis3447@gmail.com.
 
 <!---
 shiyis/shiyis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
